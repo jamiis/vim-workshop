@@ -53,13 +53,11 @@ First, install the [base16 iTerm2 coloring schemes](https://github.com/chriskemp
 
 Talk about (ignore this peoplez):
 
-* vimtutor
+* `vimtutor`
 * modes (insert, visual, whatever the other ones are called)
-* basic movements and combinations of keys
-* list some of your most used cmds
+* most used cmds?
 * macros
-* plugins:
-* tpope. Fugitive, NERDTree, CtrlP, Surround
+* plugins. tpope. Fugitive, NERDTree, CtrlP, Surround.
 * sublime text, atom
 * vim in the command line via .bashrc: `set -o vi`
 * vim chrome extensions. show RES example.
