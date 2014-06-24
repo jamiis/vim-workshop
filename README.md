@@ -61,6 +61,6 @@ Talk about (ignore this peoplez):
 * plugins:
 * tpope. Fugitive, NERDTree, CtrlP, Surround
 * sublime text, atom
-* vim in the command line via .bashrc
+* vim in the command line via .bashrc: `set -o vi`
 * vim chrome extensions. show RES example.
 * future of vim: neovim?
