@@ -62,3 +62,4 @@ Talk about (ignore this peoplez):
 * vim in the command line via .bashrc: `set -o vi`
 * vim chrome extensions. show RES example.
 * future of vim: neovim?
+shitty
