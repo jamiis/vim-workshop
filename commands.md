@@ -1,3 +1,5 @@
+really poorly formatted reference to a few cmds
+
 insert mode, motion
 
 quit
@@ -21,22 +23,28 @@ w, b, (small letters)
 W, B, (big letters, e.g. skip dots)
 
 2W (move two big words)
+var.iable.because.yeah 
 
 
 delete (d<movement>)
 
-dd, dt, df, dF, dT
+dt)
+yt)
+df)
+dF
+dT
 
 yank
 
 2yw (yank 2 words)
-
 5yd (yank 5 words)
+yy (yank whole line)
 
 
 end and beginning of line
 
-$, ^, A, I
+$, ^
+A, I
 
 go to line
 
@@ -46,7 +54,7 @@ gg (top)
 
 :10, 10G, (goto line 10)
 
-~ (go to previous position)
+`` (go to previous position)``
 
 <c-d> (move down page)
 
@@ -58,7 +66,7 @@ p (paste clipboard to left of cursor or below line)
 
 P (paste right of cursor or above line)
 
-y5wp (yank 5 words, paste)
+5ywp (yank 5 words, paste)
 
 y42Gp (yank from here to line 42, paste)
 
@@ -77,9 +85,7 @@ q
 find
 
 / (fwd -- n to iterate, N to iterate backwards)
-
 ? (reverse search)
-
 * (highlight current word)
 
 
